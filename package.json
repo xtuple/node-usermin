@@ -1,6 +1,6 @@
 {
   "name": "usermin",
-  "version": "1.6.00-r6",
+  "version": "1.6.00-r7",
   "description": "Usermin allows non-root users to use Webmin",
   "main": "index.js",
   "repository": {
@@ -9,7 +9,7 @@
   },
   "slug": {
     "tag": "1.600",
-    "url": "http://prdownloads.sourceforge.net/webadmin/usermin-1.600.tar.gz"
+    "url": "http://downloads.sourceforge.net/project/webadmin/usermin/1.600/usermin-1.600.tar.gz"
   },
   "bin": {
     "usermin": "index.js"
